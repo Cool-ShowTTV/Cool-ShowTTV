@@ -5,7 +5,7 @@
 - 💬 Ask me about Python/RLua help
 - 📫 How to reach me: [Discord](https://www.discord.com/users/267139558125076480) and [Twitter](https://twitter.com/Cool_ShowTTV)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I hate my self :)
+<!-- - ⚡ Fun fact: I hate my self :)
 
 <!--
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
