@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on anything 😄
 - 💬 Ask me about Python/RLua help
 - 📫 How to reach me: [Discord](https://www.discord.com/users/267139558125076480) and [Twitter](https://twitter.com/Cool_ShowTTV)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him ![](https://hit.yhype.me/github/profile?user_id=22648256)
 
 <div align="center">
   
@@ -15,4 +15,3 @@
 <!--
 - ⚡ Fun fact: I hate my self :)
 -->
-![](https://hit.yhype.me/github/profile?user_id=22648256)
