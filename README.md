@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on random projects
+- 🔭 I’m currently working on an embed for [TBA](https://www.thebluealliance.com/ "The Blue Alliance"), [link here](https://github.com/Cool-showTTV/TheBlueAlliance-Embed "I didn't know how to link this without making it sound weird lol")
 - 🌱 I’m currently learning PHP and a bit of Python
 - 👯 I’m looking to collaborate on anything 😄
 - 💬 Ask me about Python/RLua help
