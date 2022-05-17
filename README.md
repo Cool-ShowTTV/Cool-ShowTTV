@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning PHP and a bit of Python
 - 👯 I’m looking to collaborate on anything 😄
 - 💬 Ask me for Python/RLua help
-- 📫 How to reach me: [Discord](https://www.discord.com/users/267139558125076480) and [Twitter](https://twitter.com/Cool_ShowTTV)
+- 📫 How to reach me: [Discord "Cool_Show#4851"](https://www.discord.com/users/687396215909908551) and [Twitter](https://twitter.com/Cool_ShowTTV)
 - 😄 Pronouns: He/Him/Any ![](https://hit.yhype.me/github/profile?user_id=22648256)
   <img src="https://metrics.lecoq.io/COOL-showttv">
   </a>
