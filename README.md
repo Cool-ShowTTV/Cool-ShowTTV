@@ -2,7 +2,7 @@
 <a align="left" width="390">
   
   ### Hi there 👋
-- 🔭 I’m currently working on an embed for [TBA (on hold)](https://github.com/Cool-showTTV/TheBlueAlliance-Embed), and a [desktop app for Barq](https://github.com/Cool-showTTV/barq-desktop "Will be private untill I feel its good.")
+- 🔭 I’m currently working on an embed for a [desktop app for Barq](https://github.com/Cool-showTTV/barq-desktop "Will be private until I feel its good/more secure.")
 - 🌱 I’m currently learning PHP and a bit of Python
 - 👯 I’m looking to collaborate on anything 😄
 - 💬 Ask me for Python/RLua help
