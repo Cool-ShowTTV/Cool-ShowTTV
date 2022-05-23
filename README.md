@@ -8,7 +8,7 @@
 - 💬 Ask me for Python/RLua help
 - 📫 How to reach me: [Discord: Cool_Show#4851](https://www.discord.com/users/687396215909908551 "Cool_Show#4851") and [Twitter](https://twitter.com/Cool_ShowTTV)
 - 😄 Pronouns: He/Him/Any ![](https://hit.yhype.me/github/profile?user_id=22648256)
-  <img src="https://metrics.lecoq.io/COOL-showttv">
+  <img src="https://metrics.lecoq.io/COOL-showttv" style="max-width: 49%;">
   </a>
   
 <div align="center">
