@@ -9,7 +9,7 @@
     <li>🌱 I’m currently learning PHP and a bit of Python</li>
     <li>👯 I’m looking to collaborate on anything 😄</li>
     <li>💬 Ask me for Python/RLua help</li>
-    <li>📫 How to reach me: <a href="https://www.discord.com/users/687396215909908551" title="Cool_Show#4851">Discord: Cool_Show#4851</a> and <a href="https://twitter.com/Cool_ShowTTV">Twitter</a></li>
+    <li>📫 How to reach me: <a href="https://www.discord.com/users/687396215909908551" title="Cool_Show#4851">Discord: Cool_Show#4851</a> and <a href="https://twitter.com/Cool_ShowTTV" title="@Cool_ShowTTV">Twitter</a></li>
     <li>😄 Pronouns: He/Him/Any</li>
     </ul>
   <img src="https://metrics.lecoq.io/COOL-showttv" width="49%;">
