@@ -13,8 +13,8 @@
 </div>
   
 <div align="center">
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cool-showttv&amp;theme=onedark" alt="trophy" width="49%"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=cool-showttv&amp;show_icons=true&amp;theme=dark" alt="Anurag&#39;s GitHub stats" width="49%"></a></p>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=cool-showttv&amp;show_icons=true&amp;theme=dark" alt="Anurag&#39;s GitHub stats" width="49%"></a>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cool-showttv&amp;theme=onedark&column=3" alt="trophy" width="30%"></a>
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
