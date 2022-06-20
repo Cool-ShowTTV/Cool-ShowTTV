@@ -16,12 +16,13 @@ Same site as the other stat one but lets be real this one is cooler :)-->
     <li>📫 How to reach me: <a href="https://www.discord.com/users/687396215909908551" title="Cool_Show#4851">Discord</a>, <a href="https://t.me/Cool_ShowTTV" title="@Cool_ShowTTV">Telegram</a>, and <a href="https://twitter.com/Cool_ShowTTV" title="@Cool_ShowTTV">Twitter</a></li>
     <li>😄 Pronouns: <a href="https://en.pronouns.page/@Cool_Show" title="pronouns.page link">He/Him/Any</a></li>
     </ul>
-  <img src="https://metrics.lecoq.io/COOL-showttv" >
+  <img src="https://metrics.lecoq.io/COOL-showttv" width="49%;">
 </div>
   
-<div align="center" title="Well hello there! Did you know that a shrimp's heart is in its head?">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=cool-showttv&amp;show_icons=true&amp;theme=dark" alt="Anurag&#39;s GitHub stats" width="49%"></a>
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cool-showttv&amp;theme=onedark&column=3" alt="trophy" width="30%"></a>
+<div align="center" title="Well hello there! Did you know that a shrimp's heart is in its head?" width="390">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=cool-showttv&amp;show_icons=true&amp;theme=dark" alt="Anurag&#39;s GitHub stats" width="49%" title=":"></a>
+    
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cool-showttv&amp;theme=onedark&column=3" alt="trophy" width="30%" title=")"></a>
 </div>
 
 <!--I did this <br> spam to make my readMe basicly the only thing you see on my profile because... eh-->
