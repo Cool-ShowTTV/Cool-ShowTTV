@@ -9,7 +9,7 @@ Same site as the other stat one but lets be real this one is cooler :)-->
 <div align="left" width="390">
     <h3 id="hi-there-">Hi there 👋</h3>
     <ul>
-    <li>🔭 I’m currently working on a desktop app for <a href="https://github.com/Cool-showTTV/barq-desktop" title="Quite bad₍ₛₕᵢₜ₎ right now.">desktop app for Barq</a></li>
+    <li>🔭 I’m currently working on not dieing</li>
     <li>🌱 I’m currently learning PHP and a bit of Python</li>
     <li>👯 I’m looking to collaborate on mostly anything 😄</li>
     <li>💬 Ask me for Python/<a href="#" title="Roblox Lua">RLua</a> help</li>
