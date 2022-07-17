@@ -29,4 +29,9 @@ Same site as the other stat one but lets be real this one is cooler :)-->
  Fun fact: I hate my self :) :)
 -->
 
-<img src="https://hit.yhype.me/github/profile?user_id=22648256" alt="Ÿ HŸPE's view logger if you see this thats not good.">
+<div align="center">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+    </a><br>
+    <img src="https://hit.yhype.me/github/profile?user_id=22648256" alt="Ÿ HŸPE's view logger if you see this thats not good.">
+</div>
