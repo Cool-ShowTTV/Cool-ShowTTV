@@ -1,0 +1,16 @@
+name: abc
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Metrics embed
+      uses: lowlighter/metrics@v3.26
