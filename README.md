@@ -15,6 +15,7 @@ Same site as the other stat one but lets be real this one is cooler :)-->
     <li>💬 Ask me for Python/<a href="#" title="Roblox Lua">RLua</a> help</li>
     <li>📫 How to reach me: <a href="https://www.discord.com/users/687396215909908551" title="Cool_Show#4851">Discord</a>, <a href="https://t.me/Cool_ShowTTV" title="@Cool_ShowTTV">Telegram</a>, and <a href="https://twitter.com/Cool_ShowTTV" title="@Cool_ShowTTV">Twitter</a></li>
     <li>😄 Pronouns: <a href="https://en.pronouns.page/@Cool_Show" title="pronouns.page link">He/Him/Any</a></li>
+    <li>👀 The site(s) I own: <a href="https://UwUugle.tech" title="UwUugle.tech link">UwUugle.tech</a></li>
     </ul>
   <img src="https://metrics.lecoq.io/COOL-showttv" width="49%;">
 </div>
