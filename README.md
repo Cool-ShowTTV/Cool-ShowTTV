@@ -33,12 +33,11 @@ Same site as the other stat one but lets be real this one is cooler :)-->
 <div align="center">
     <a href="https://github.com/antonkomarev/github-profile-views-counter">
         <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-    </a><br>
-    <p>
-        <a href="https://github.com/biancarosa/lastfm-last-played">
-            <img src="https://img.shields.io/endpoint?color=red&amp;url=https://lastfm-last-played.biancarosa.com.br/Cool_Show/latest-song?format=shields.io&amp;style=for-the-badge&amp;label=%20" alt="Last.FM Last Played Song">
-        </a>
-    </p>
-
-    <img src="https://hit.yhype.me/github/profile?user_id=22648256" alt="Ÿ HŸPE's view logger if you see this thats not good.">
+    </a>
+    <br>
+    <a href="https://github.com/biancarosa/lastfm-last-played">
+        <img src="https://img.shields.io/endpoint?color=red&amp;url=https://lastfm-last-played.biancarosa.com.br/Cool_Show/latest-song?format=shields.io&amp;style=for-the-badge&amp;label=%20" alt="Last.FM Last Played Song">
+    </a>
+    <br>
+    <img src="https://hit.yhype.me/github/profile?user_id=22648256" alt="Ÿ HŸPE">
 </div>
