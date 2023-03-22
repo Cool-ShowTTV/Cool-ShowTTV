@@ -39,5 +39,8 @@ Same site as the other stat one but lets be real this one is cooler :)-->
         <img src="https://img.shields.io/endpoint?color=red&amp;url=https://lastfm-last-played.biancarosa.com.br/Cool_Show/latest-song?format=shields.io&amp;style=for-the-badge&amp;label=%20" alt="Last.FM Last Played Song">
     </a>
     <br>
+    <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Cool-ShowTTV/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Cool-ShowTTV/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Cool-ShowTTV/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+    <br>
     <img src="https://hit.yhype.me/github/profile?user_id=22648256" alt="Ÿ HŸPE">
 </div>
+
