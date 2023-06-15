@@ -14,7 +14,6 @@
         <li>🔭 I’m currently working on not dying</li>
         <li>🌱 I’m currently learning PHP and a bit of Python</li>
         <li>👯 I’m looking to collaborate on mostly anything 😄</li>
-        <li>💬 Ask me for Python/<a href="https://github.com/Roblox/luau" title="Roblox's custom Lua">Luau</a> help</li>
         <li>📫 How to reach me: <a href="https://www.discord.com/users/687396215909908551" title="Cool_Show">Discord</a>, <a href="https://t.me/Cool_ShowTTV" title="@Cool_ShowTTV">Telegram</a>, and <a href="https://twitter.com/Cool_ShowTTV" title="@Cool_ShowTTV">Twitter</a></li>
         <li>😄 Pronouns: <a href="https://en.pronouns.page/@Cool_Show" title="pronouns.page link">He/Him/Any</a></li>
         <li>👀 The site(s) I own: <a href="https://UwUugle.com" title="UwUugle.com link">UwUugle.com</a></li>
