@@ -20,7 +20,7 @@
 </div>
   
 <div align="center" title="Well hello there! Did you know that a shrimp's heart is in its head?" width="390">
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cool-showttv&amp;theme=onedark&column=3" alt="trophy" width="30%" title=")"></a>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=cool-showttv&amp;theme=onedark&column=3" alt="trophy" width="30%" title=")"></a>
 </div>
 
 <!--
@@ -32,12 +32,9 @@
         <img src="https://komarev.com/ghpvc/?username=Cool-ShowTTV&style=for-the-badge">
     </a>
     <br>
-    <!--<a href="https://github.com/biancarosa/lastfm-last-played">
-        <img src="https://img.shields.io/endpoint?color=red&amp;url=https://lastfm-last-played.biancarosa.com.br/Cool_Show/latest-song?format=shields.io&amp;style=for-the-badge&amp" alt="Last.FM Last Played Song">
-    </a>-->
+    <a href="https://github.com/biancarosa/lastfm-last-played">
+        <img src="https://img.shields.io/endpoint?color=blueviolet&url=https://lastfm-last-played.biancarosa.com.br/cool_show/latest-song?format=shields.io" alt="Last.FM Last Played Song">
+    </a>
     <br>
-    <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Cool-ShowTTV/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Cool-ShowTTV/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Cool-ShowTTV/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-    <br>
-    <img src="https://hit.yhype.me/github/profile?user_id=22648256" alt="Ÿ HŸPE">
 </div>
 
