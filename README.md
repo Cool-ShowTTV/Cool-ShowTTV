@@ -1,4 +1,4 @@
-# I don't log into Github often anymore, if you need to contact me look elsewhere
+# I don't log into Github often anymore, if you need to contact me look at the contacts below!
 
 <div dir="Welcome to my GitHub"></div>
 <div height="5'8" dir="141 lb" style="cool" title="If you are using inspect element RN, why?"></div>
@@ -16,7 +16,7 @@
         <li>🔭 I’m currently working on not dying</li>
         <li>🌱 I’m currently learning PHP and a bit of Python</li>
         <li>👯 I’m looking to collaborate on mostly anything 😄</li>
-        <li>📫 How to reach me: <a href="https://www.discord.com/users/687396215909908551" title="Cool_Show">Discord</a>, <a href="https://t.me/Cool_ShowTTV" title="@Cool_ShowTTV">Telegram</a>, and <a href="https://twitter.com/Cool_ShowTTV" title="@Cool_ShowTTV">Twitter</a></li>
+        <li>📫 How to reach me: <a href="https://www.discord.com/users/687396215909908551" title="Cool_Show">Discord</a>, <a href="https://t.me/Cool_ShowTTV" title="@Cool_ShowTTV">Telegram</a>, and <a href="https://bsky.app/profile/did:plc:7vhdey7cq4i2gii3v62ybafk" title="@UwUugl.com">Bsky</a></li>
         <li>😄 Pronouns: <a href="https://en.pronouns.page/@Cool_Show" title="pronouns.page link">They/He/Any</a></li>
     </ul>
 </div>
