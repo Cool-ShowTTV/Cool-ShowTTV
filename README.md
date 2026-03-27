@@ -1,13 +1,7 @@
-# I don't log into Github often anymore, if you need to contact me look at the contacts below!
+# I don't log into Github often anymore, if you need to contact me with an issue about something please use one of the contacts below!
 
 <div dir="Welcome to my GitHub"></div>
 <div height="5'8" dir="141 lb" style="cool" title="If you are using inspect element RN, why?"></div>
-
-<!--CMD stats on the right of the screen (messy because NO ONE will ever se this code any way-->
-<p>
-<a href="#"><img align="right" width="390" alt="🦑" src="https://metrics.lecoq.io/Cool-ShowTTV?template=classic&base.hireable=true&repositories.skipped=Cool-ShowTTV&isocalendar=1&languages=1&lines=1&fortune=1&tweets=1&achievements=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.skipped=Cool-ShowTTV&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.skipped=Cool-ShowTTV&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&code.skipped=Cool-showTTV&tweets=false&tweets.user=cool_showttv&tweets.attachments=true&tweets.limit=1&fortune=false&config.timezone=America%2FNew_York">
-</a>
-</p>
 
 <!--Left side of the screen info and stats-->
 <div align="left" width="390">
