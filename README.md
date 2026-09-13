@@ -1,4 +1,4 @@
-# I don't log into Github often anymore, if you need to contact me with an issue about something please use one of the contacts below!
+# I don't log into Github that often, if you need to contact me please use one of the contacts below!
 
 <div dir="Welcome to my GitHub"></div>
 <div height="5'8" dir="141 lb" style="cool" title="If you are using inspect element RN, why?"></div>
